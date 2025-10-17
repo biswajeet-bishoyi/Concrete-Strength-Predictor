@@ -102,5 +102,6 @@ if st.button("Predict Strength") and cement > 0 and fineagg > 0:
         st.error(f"Prediction error: {e}")
 
 st.markdown("---")
-st.markdown("Created by [Your Name]. For academic demonstration only.")
+st.markdown("Created by Biswajeet Bishoyi. For academic demonstration only.")
+
 
