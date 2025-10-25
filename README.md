@@ -1,4 +1,4 @@
-# Concrete Strength Predictor
+# 🧱Concrete Strength Predictor
 
 A machine learning app to predict concrete compressive strength from mix designs using Streamlit.
 
