@@ -1,0 +1,8 @@
+- [Complete Overview](COMPLETE_OVERVIEW.txt) — Visual summary with all stats, timelines, revenue projections, next steps (READ THIS FIRST)
+- [Final Summary](FINAL_SUMMARY.md) — Comprehensive project summary, implementation phases, success criteria
+- [Index & Quick Reference](INDEX.md) — Complete guide to correction folder, workflows, lookup table, cross-references, project metrics
+- [Status Summary](STATUS_SUMMARY.md) — Executive overview, quick wins, implementation priority, decision matrix, next actions
+- [Project Overview & Log](PROJECT_LOG.md) — Concrete Strength Predictor ML app; RF model trained, Streamlit UI functional, hardcoded paths and error handling need fixes
+- [Frontend Requirements](FRONTEND_REQUIREMENTS.md) — Complete design system, component specs, accessibility, performance targets, copy guidelines, implementation checklist
+- [Enhancement Suggestions](ENHANCEMENT_SUGGESTIONS.md) — 70+ ideas across 9 categories: backend ML, frontend UX, APIs, testing, deployment, monitoring, business features, research extensions, maintenance
+- [Advanced Additions](ADVANCED_ADDITIONS.md) — 15 cutting-edge features: AI chatbot, multi-material support, white-label SaaS, IoT integration, blockchain, AR/VR, federated learning, revenue projections
